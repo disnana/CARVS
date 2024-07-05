@@ -12,3 +12,8 @@ WindowsユーザーのパスワードをOTPにします。<br>
 なので以下のVisual Studio C Runtimeをインストールするとご利用可能です。<br>
 以下ののzipに入っている`install_all.bat`を管理者権限で実行すると自動でセットアップしてくれます。<br>
 [必要なランタイムのダウンロードはこちら](https://us3-dl.techpowerup.com/files/mWnFo7DXkGe5TmIL8fCO8g/1720141480/Visual-C-Runtimes-All-in-One-May-2024.zip)
+
+## お知らせ
+ - 使い方や説明動画は近日中に投稿予定です。
+ - ソースコードの一部も近日中に公開します。
+ - セキュリティ関連の強化、および解析対策の強化等を行っております。
