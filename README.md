@@ -10,8 +10,9 @@ WindowsユーザーのパスワードをOTPにします。<br>
 ## セットアップ
 起動できない場合、Visual StudioのCランタイムがないから起動できない可能性が高いです。<br>
 なので以下のVisual Studio C Runtimeをインストールするとご利用可能です。<br>
-以下ののzipに入っている`install_all.bat`を管理者権限で実行すると自動でセットアップしてくれます。<br>
-[必要なランタイムのダウンロードはこちら](https://us3-dl.techpowerup.com/files/mWnFo7DXkGe5TmIL8fCO8g/1720141480/Visual-C-Runtimes-All-in-One-May-2024.zip)
+以下ののサイトからできるだけ日付が新しいものをダウンロードし、<br>
+そのZIPファイルに入っている`install_all.bat`を管理者権限で実行すると自動でセットアップしてくれます。<br>
+[必要なランタイムのダウンロードはこちら](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 
 ## お知らせ
  - 使い方や説明動画は近日中に投稿予定です。
